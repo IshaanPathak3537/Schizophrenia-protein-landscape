@@ -82,6 +82,13 @@ https://www.uniprot.org/
 
 The analysis was performed programmatically in Python using the UniProt REST API. The processed dataset and generated figures are included in this repository.
 
+## How to Reproduce
+
+1. Open `Schizophrenia_Protein_Analysis.ipynb` in Google Colab or Jupyter Notebook.
+2. Run the cells in order to retrieve the protein data from UniProt and reproduce the analysis.
+3. The processed dataset is available in `data/`.
+4. Generated figures are available in `figures/`.
+
 ## Disclaimer
 
 Association with schizophrenia does not imply that a protein directly causes schizophrenia. Schizophrenia is a complex, polygenic disorder involving many biological pathways and genetic factors.
